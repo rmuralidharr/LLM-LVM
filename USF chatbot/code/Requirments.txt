@@ -1,0 +1,7 @@
+openai
+langchain
+python-dotenv
+pinecone-client
+unstructured
+tiktoken
+unstructured[docx]
