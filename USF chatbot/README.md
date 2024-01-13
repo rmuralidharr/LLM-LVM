@@ -14,7 +14,7 @@ results
 
 
 ===================code supporting =============
-mail 
+mail. 
 database [storing chat history]
 
 Refer https://python.langchain.com/docs/use_cases/chatbots
