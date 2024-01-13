@@ -1,0 +1,36 @@
+.chat-row {
+    display: flex;
+    margin: 5px;
+    width: 100%;
+}
+
+.row-reverse {
+    flex-direction: row-reverse;
+}
+
+.chat-bubble {
+    font-family: "Source Sans Pro", sans-serif, "Segoe UI", "Roboto", sans-serif;
+    border: 1px solid transparent;
+    padding: 5px 10px;
+    margin: 0px 7px;
+    max-width: 70%;
+    background-image: url("https://raw.githubusercontent.com/AkshayRamesh23/Chatbot/main/background.png"); /* Replace 'your-background-image-url.jpg' with the actual URL of your background image */
+    background-size: cover; /* Adjust the sizing based on your needs */
+    background-repeat: no-repeat; /* Ensures the image doesn't repeat */
+}
+
+.ai-bubble {
+    background: linear-gradient(135deg, rgb(148, 250, 148) 0%, rgb(148, 250, 148) 100%); 
+    color: black;
+    border-radius: 20px;
+}
+
+.human-bubble {
+    background: linear-gradient(135deg, rgb(146, 146, 245) 0%, rgb(146, 146, 245) 100%); 
+    color: black;
+    border-radius: 20px;
+}
+
+.chat-icon {
+    border-radius: 5px;
+}
