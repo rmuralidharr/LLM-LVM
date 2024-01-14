@@ -1,3 +1,4 @@
-Main file 
-Chatbot langchain
-openai
+- Main file 
+- Chatbot langchain
+- openai
+- Refer https://python.langchain.com/docs/use_cases/chatbots
